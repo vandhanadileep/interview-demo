@@ -1,0 +1,5 @@
+login credentials 
+email:admin@gmail.com
+password:admin
+
+HAPPY CODING :)
